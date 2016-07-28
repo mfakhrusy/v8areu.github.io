@@ -1,0 +1,51 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title[page.lang] }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>{{ site.title[page.lang] }}</li>
+          <li><a href="mailto:{{ site.owner.email }}">{{ site.owner.email }}</a></li>
+        </ul>
+      </div>
+
+      <!-- SOCIAL MEDIA INCLUDES ON FOOTER-->
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+
+          {% if site.owner.github %}
+          <li>
+            {% include icon-github.html username=site.owner.github %}
+          </li>
+          {% endif %}
+
+          {% if site.owner.twitter %}
+          <li>
+            {% include icon-twitter.html username=site.owner.twitter %}
+          </li>
+          {% endif %}
+
+          {% if site.owner.facebook %}
+          <li>
+            {% include icon-facebook.html username=site.owner.facebook %}
+          </li>
+          {% endif %}
+
+        </ul>
+      </div>
+      <!-- END OF SOCIAL MEDIA INCLUDES ON FOOTER-->
+
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description[page.lang] }}</p>
+      </div>
+    </div>
+
+      <div class="footer-col-wrapper copyright">
+        <p>{{ site.crf[page.lang] }}</p>
+      </div>
+  </div>
+
+</footer>
