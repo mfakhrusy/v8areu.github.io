@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Menjadi Troubleshooter komputer sendiri? Tidak sulit kok!"
-ref: troubleshooter
-date:   2016-07-08 
-categories: linux computer general 
+title:  "linux, linux, LINUX?! - 1"
+ref: linux, linux, LINUX - 1
+date:   2016-07-30
+categories: linux computer 
 lang: id
 ---
 Bismillahirrahmanirrahiim!
