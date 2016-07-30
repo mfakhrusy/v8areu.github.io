@@ -18,12 +18,12 @@ Mungkin banyak sekali di antara kawan-kawan kita yang cukup sering membagikan ha
 
 Mungkin jika kamu-kamu cukup doyan men-google tentang linux, banyak sekali alasan-alasan yang tersebar luas di internet. Beberapa mencakup:
 <ol>
-<li> Item Linux itu gratis </li>
-<li> Item Linux itu pelarian dari sistem operasi bajakan </li>
-<li> Item Linux itu gak ada virusnya </li>
-<li> Item Linux itu gak ada antarmuka yang menarik </li>
-<li> Item Linux bukan untuk nge-game </li>
-<li> Item Linux itu gratis </li>
+<li> Linux itu gratis </li>
+<li> Linux itu pelarian dari sistem operasi bajakan </li>
+<li> Linux itu gak ada virusnya </li>
+<li> Linux itu gak ada antarmuka yang menarik </li>
+<li> Linux bukan untuk nge-game </li>
+<li> Linux itu gratis </li>
 </ol>
 Yah, beberapa hal di atas gak salah sih, mungkin mayoritas ada benarnya. Tapi sesungguhnya apakah itu alasan orang ingin menggunakan Linux?
 Jika itu pertanyaannya, maka sungguh, sungguh itu akan berbeda tiap orang. Maka aku akan menjelaskan jawabannya dari sudut pandangku sendiri..
