@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Welcome to Jekyll!"
 ref: welcome
 date:   2016-07-08 09:48:44 +0100

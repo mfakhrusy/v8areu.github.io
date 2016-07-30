@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Menjadi Troubleshooter komputer sendiri? Tidak sulit kok!"
 ref: troubleshooter
 date:   2016-07-08 
