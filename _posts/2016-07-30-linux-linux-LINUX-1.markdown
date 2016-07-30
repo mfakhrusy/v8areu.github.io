@@ -16,13 +16,14 @@ Linux di sana, Linux di sini, linux di mana-mana. Apa sih maksudnya?
 Mungkin banyak sekali di antara kawan-kawan kita yang cukup sering membagikan hal-hal yang berkaitan dengan "Linux" di beragam media sosial, tapi sebenernya, kenapa sih mereka sangat setia dengan yang namanya linux?!
 
 Mungkin jika kamu-kamu cukup doyan men-google tentang linux, banyak sekali alasan-alasan yang tersebar luas di internet. Beberapa mencakup:
-* Item Linux itu gratis
-* Item Linux itu pelarian dari sistem operasi bajakan
-* Item Linux itu gak ada virusnya
-* Item Linux itu gak ada antarmuka yang menarik
-* Item Linux bukan untuk nge-game
-* Item Linux itu gratis
-
+<ol>
+<li> Item Linux itu gratis </li>
+<li> Item Linux itu pelarian dari sistem operasi bajakan </li>
+<li> Item Linux itu gak ada virusnya </li>
+<li> Item Linux itu gak ada antarmuka yang menarik </li>
+<li> Item Linux bukan untuk nge-game </li>
+<li> Item Linux itu gratis </li>
+</ol>
 Yah, beberapa hal di atas gak salah sih, mungkin mayoritas ada benarnya. Tapi sesungguhnya apakah itu alasan orang ingin menggunakan Linux?
 Jika itu pertanyaannya, maka sungguh, sungguh itu akan berbeda tiap orang. Maka aku akan menjelaskan Linux untukku sendiri.
 
